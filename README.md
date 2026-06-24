@@ -37,7 +37,7 @@ guarantee. See **[docs/non-goals.md](./docs/non-goals.md)**.
 Run from a local clone (Node.js >= 20):
 
 ```sh
-git clone https://github.com/steven3002/Agentic-Clarity-Preflight-CLI.git
+git clone https://github.com/Supercoolkayy/Agentic-Clarity-Preflight-CLI.git
 cd Agentic-Clarity-Preflight-CLI
 npm install
 npm run build
